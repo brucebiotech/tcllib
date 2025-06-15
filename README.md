@@ -1,2 +1,3 @@
 # tcllib
-collection of tcl packages
+
+A collection of tcl packages.
